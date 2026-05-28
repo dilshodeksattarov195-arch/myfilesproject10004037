@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderparse",
+        "uuid": 5752725,
+        "checksum": "ul6gah"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
